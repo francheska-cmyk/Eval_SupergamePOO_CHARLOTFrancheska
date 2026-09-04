@@ -1,2 +1,2 @@
-# Eval_SupergamePOO_CHARLOTFrancheska
+# Rendu de l'évaluation de PHP Supergame POO
 
